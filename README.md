@@ -9,7 +9,6 @@ I'm a passionate full-stack developer from **Pakistan**, with experience in back
 ### 📫 **How to Reach Me**
 - 📧 Email: [saadsohailbajwa@gmail.com](mailto:saadsohailbajwa@gmail.com)
 - 🔗 LinkedIn: [Saad Sohail Bajwa](https://linkedin.com/in/saadsohailbajwa)
-- 💻 GitHub: [SaadSohailBajwa](https://github.com/SaadSohailBajwa)
 - 📜 [My Resume](https://docs.google.com/document/d/1RPT2K9UMbKIsth7q5E_TvYuz5swXNQ2gqbSAsfSRvtA/edit?usp=sharing)
 
 ---
@@ -20,7 +19,7 @@ I'm a passionate full-stack developer from **Pakistan**, with experience in back
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </p>
