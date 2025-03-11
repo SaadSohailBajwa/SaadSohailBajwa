@@ -59,7 +59,8 @@ I'm a passionate full-stack developer from **Pakistan**, with experience in back
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaadSohailBajwa&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsohailbajwa&layout=compact" alt="GitHub Stats" width="40%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsohailbajwa&layout=compact" alt="GitHub Stats" width="48%" />
 </p>
 
 ---
