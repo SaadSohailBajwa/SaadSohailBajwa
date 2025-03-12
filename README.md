@@ -9,7 +9,7 @@ I'm a passionate full-stack developer from **Pakistan**, with experience in back
 ### 📫 **How to Reach Me**
 - 📧 Email: [saadsohailbajwa@gmail.com](mailto:saadsohailbajwa@gmail.com)
 - 🔗 LinkedIn: [Saad Sohail Bajwa](https://linkedin.com/in/saadsohailbajwa)
-- 📜 [My Resume](https://docs.google.com/document/d/1RPT2K9UMbKIsth7q5E_TvYuz5swXNQ2gqbSAsfSRvtA/edit?usp=sharing)
+- 📜 [My Resume](https://pub-4c6184a32362426baa9757e032fcd9ee.r2.dev/resume%203.1%20.pdf)
 
 ---
 
